@@ -1,8 +1,8 @@
 # BuildYourOwnCNC
 My experience/info building the CNC machine described in the book "Build Your Own CNC Machine" by Patrick Hood-Daniel and James Floyd Kelly.
 
-BillOfMaterials.ods = parts and tools list I assembled/calculated from the book text. The book doesn't have a parts list.
-diary.odt = my day-to-day diary of the project so far.
+* BillOfMaterials.ods = parts and tools list I assembled/calculated from the book text. The book doesn't have a parts list.
+* diary.odt = my day-to-day diary of the project so far.
 
 State of the project right now:  I've read the book several times, combed over it to create the parts and tools list, have ordered a few parts so I can practice joining parts and building rail bearing assemblies.
 
